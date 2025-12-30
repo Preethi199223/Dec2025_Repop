@@ -1,0 +1,42 @@
+1. non-Primitive datatype default value is null
+1. Primitive datatype default value is 0,0.0
+3.SeARCHING PATTERN for string
+
+QA:
+count the number of DUPLICATE CHARACTERS in the given array
+
+selenium:
+1.class and text, always higher preference should be text 
+
+if you send keys for button it will throw element not found
+if you send click on disable button it will not throw exception
+
+
+how to type selenium without send keys
+ans: javascript execution
+
+where you have used varx
+ans:in javascript executor
+
+
+Can we work with shadown with shadow root
+As: No
+
+
+which class selenium will use
+Ans: Linkedhashset
+
+where null key and key value will allow ?
+
+Ans: yes hashmap will allow
+
+
+For parameters mentioned in code.we need to run from testing file
+
+
+how to manage all -m2 repository
+
+which plugins you have tested for plugin
+Ans: Surefire plugin
+
+No class interface will be called as marker interface
